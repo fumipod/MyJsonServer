@@ -1,0 +1,14 @@
+{
+  "users" : [
+    { "id": "1", "name": "Walter Burks", "email": "dkeeler@example.com" },
+    { "id": "2", "name": "Ashlea Maddox", "email": "ngedmond@example.com" },
+    { "id": "3", "name": "Elis Ortega", "email": "moinefou@example.com" },
+    { "id": "4", "name": "Tobi Weaver", "email": "kudra@example.com" },
+    { "id": "5", "name": "Jakub Conner", "email": "jigsaw@example.com" },
+    { "id": "6", "name": "Clay Walter", "email": "moxfulder@example.com" },
+    { "id": "7", "name": "Jules Salas", "email": "onestab@example.com" },
+    { "id": "8", "name": "Barry Robson", "email": "vsprintf@example.com" },
+    { "id": "9", "name": "Darin Shelton", "email": "jugalator@example.com" },
+    { "id": "10", "name": "Zaid Roche", "email": "fhirsch@example.com" }
+  ]
+}
